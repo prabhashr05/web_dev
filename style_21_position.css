@@ -1,0 +1,41 @@
+p{
+    position: static;
+
+}
+
+div{
+    width: 100px;
+    height: 150PX;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+}
+.box0{
+    width: 1000px;
+    height: 3000px;
+    background-color: blue;
+}
+
+#box3{
+    position: relative;
+    top: 59px;
+    right: 20px;
+}
+
+#box4{
+    position: sticky;
+    top: 20px;
+  
+}
+
+/* #box3{
+    position: relative;
+    top: 59px;
+    right: 20px;
+}
+
+#box3{
+    position: relative;
+    top: 59px;
+    right: 20px;
+} */
